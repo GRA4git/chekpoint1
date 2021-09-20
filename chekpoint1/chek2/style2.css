@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(171, 191, 199);
+    font-family: Gilroy;
+    font-size: 40px;
+    font: bold;
+}
+h1{
+    color: red;
+    font-size: 30px;
+    line-height: 80px;
+}
+h2{
+    color: red;
+    font-size: 30px;
+    line-height: 80px;
+}
+a{
+    text-decoration: none;
+}
+svg:hover path {
+    fill: red;
+}

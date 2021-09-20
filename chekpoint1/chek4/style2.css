@@ -1,0 +1,78 @@
+body{
+    background-color: rgb(171, 191, 199);
+    font-family: Gilroy;
+    font-size: 40px;
+    font: bold;
+}
+h1{
+    color: red;
+    font-size: 30px;
+    line-height: 80px;
+}
+h2{
+    color: red;
+    font-size: 30px;
+    line-height: 80px;
+    margin-bottom: 0px;
+}
+a{
+    text-decoration: none;
+}
+svg:hover path {
+    fill: red;
+}
+.card{
+   width: 900px;
+   margin: 20px 0 0 0;
+   background-color: antiquewhite;
+   box-shadow: 0 10px 30px red;
+   border-radius: 5px;
+   padding: 20px;
+text-align: center;
+}
+svg{
+    width: 30px;
+    height: 30px;
+}
+text{
+    font-size: 25px;
+    line-height: 5px;
+}
+.card ul{
+    display: flex;
+    list-style-type: none;
+    padding-left: 0;
+    justify-content: center;
+    margin-top: 0;
+
+}
+.card ul li{
+    margin: 0 20px 0 0;
+}
+img{
+    border-radius: 50%;
+}
+.button{
+    background-color: yellowgreen;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.logo img{
+    width: 100px;
+    height: 100px;
+    border-radius: 0;
+}
+.menu ul{
+    list-style-type: circle;
+    display: flex ;
+    flex-direction: column;
+    /* text-align: left; */
+    margin-left: 20px;
+}
+.menu a{
+    color: cornflowerblue;
+    font-weight: 600px;
+}
+
+
